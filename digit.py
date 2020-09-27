@@ -1,4 +1,4 @@
-#importing the dataset
+
 from sklearn.datasets import load_digits
 digits = load_digits()
 # Print to show there are 1797 images (8 by 8 images for a dimensionality of 64)
