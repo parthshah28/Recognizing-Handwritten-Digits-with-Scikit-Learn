@@ -8,5 +8,6 @@ The Digits data set of scikit-learn library provides numerous data-sets that are
 Digits from the scikit-learn library.
 
 ## Cofusion Matrix
+![](https://github.com/parthshah28/Recognizing-Handwritten-Digits-with-Scikit-Learn/blob/master/images/1_I-Sr8xjyRFPpVdXzv93UBA.png)
 
 
